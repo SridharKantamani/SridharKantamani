@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SridharKantamani
 - 👀 I’m interested in Data Engineering and Data Science
-- 🌱 I’m currently learning Databricks and ADF
 - 💞️ I’m looking to collaborate on new learnings, POCs and any data engineering related work.
 - 📫 Reach me @Sridhar.Kantamani@shell.com
 
